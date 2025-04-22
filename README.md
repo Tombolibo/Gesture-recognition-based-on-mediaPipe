@@ -1,5 +1,5 @@
 # Gesture-recognition-based-on-mediaPipe
-基于mediaPipe的手部数字识别，并集成石头剪刀布手势识别以及输赢判断<br/>
+# 基于mediaPipe的手部数字识别，并集成石头剪刀布手势识别以及输赢判断<br/>
 
 使用python语言，实现手部1~5的数字识别，以及石头剪刀布的识别和输赢判断。<br/>
 python和相关库本版：<br/>
